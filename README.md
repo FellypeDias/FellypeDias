@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" align="right" />
 
-###  Sou estudante de Sistemas Embarcados com foco em desenvolvimento Android, jogos na Unity e soluções IoT com ESP32.  
+###  Sou estudante de Sistemas Embarcados com foco em desenvolvimento Android e soluções IoT com ESP32.  
 Tenho experiência em integrar hardware e software para criar projetos práticos e funcionais, sempre buscando novas formas de tornar ideias em soluções interativas e conectadas.
 
 <br clear="both">
