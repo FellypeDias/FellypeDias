@@ -2,14 +2,10 @@
 
 ###
 
-<img align="right" height="150" style="margin-left:20px"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ0eDl3MnV3OTVtbjVxamgyODhhZHpndDZrMnBnOXV6aHZldTZlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" align="right" />
 
-###
-
-<h3 align="left">Sou estudante de Sistemas Embarcados com foco em desenvolvimento Android, jogos na Unity e soluções IoT com ESP32. Tenho experiência em integrar hardware e software para criar projetos práticos e funcionais, sempre buscando novas formas de tornar ideias em soluções interativas e conectadas</h3>
-
-###
+###  Sou estudante de Sistemas Embarcados com foco em desenvolvimento Android, jogos na Unity e soluções IoT com ESP32.  
+Tenho experiência em integrar hardware e software para criar projetos práticos e funcionais, sempre buscando novas formas de tornar ideias em soluções interativas e conectadas.
 
 <br clear="both">
 
